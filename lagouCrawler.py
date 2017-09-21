@@ -5,6 +5,7 @@ import requests
 import time
 import urllib
 import re
+from lxml import etree
 
 class crawler_lagou:
 
