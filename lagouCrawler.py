@@ -5,9 +5,8 @@ import requests
 import time
 import urllib
 import re
-from lxml import etree
 
-class spider_lagou:
+class crawler_lagou:
 
 
     def get_json(self, url,cookies, page):
